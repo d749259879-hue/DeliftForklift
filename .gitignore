@@ -5,7 +5,7 @@ dist/
 .vite-dev*.log
 
 # Local design and QA material is not required by the deployed website.
-assets/
+/assets/
 design-qa/
 design-qa-evidence/
 design-reference/
